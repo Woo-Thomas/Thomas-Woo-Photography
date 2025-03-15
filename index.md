@@ -11,9 +11,9 @@ Photography"
 
 ## About Me
 
-Hi, I'm Thomas Woo, a passionate photographer with a love for capturing life's precious moments. 
+Hi, I'm Thomas Woo, 
 
-With years of experience in photography, I've had the privilege of traveling to various parts of the world, capturing its beauty and diversity.
+A passionate photographer with a love for capturing life's precious moments. 
 
 I enjoy sharing my passion for photography. 
 
