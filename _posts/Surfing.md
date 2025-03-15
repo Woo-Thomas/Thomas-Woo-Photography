@@ -2,7 +2,7 @@
 title: "Photo Set 1: Surfing @ Beach"
 ---
 
-Enjoy!
+Enjoy! 
 
 ![항아리-7446](https://github.com/user-attachments/assets/31a9c012-7e63-44be-8083-35526dbe0872)
 
