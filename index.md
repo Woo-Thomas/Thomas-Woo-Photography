@@ -3,57 +3,62 @@ title: "Photography Blog - Capturing Moments"
 ---
 
 # Welcome to My Photography Blog!
+
 ![20210310-_W850771](https://github.com/user-attachments/assets/2a898854-0943-4781-a0f3-3cf792fe554f)
-[![Cover Photo](/assets/1)](/)
 
-I'm Thomas.
 
-  I enjoy share my photography. 
 
-    I capture moments that tell stories.
-      
-      You will find my latest photography adventures.
+## About Me
 
-        Thank you.
+Hi, I'm Thomas Woo, a passionate photographer with a love for capturing life's precious moments. 
 
-          And, enjoy.
+With years of experience in photography, I've had the privilege of traveling to various parts of the world, capturing its beauty and diversity.
+
+I enjoy sharing my passion for photography. 
+
+I capture moments that tell stories.
+
+You will find my latest photography adventures here.
+
+Thank you, and enjoy.
+
+
 
 ## Featured Posts
 
 ### [Landscape Photography in the Mountains](/posts/landscape-photography)
-Discover the breathtaking views and learn the techniques behind capturing stunning landscape photographs in the mountains.
+Breathtaking views of stunning landscape photographs in the mountains.
 
 ### [Street Photography: Capturing Urban Life](/posts/street-photography)
-Dive into the world of street photography and learn how to capture the essence of urban life through your lens.
+Dive into urban life street.
 
 ### [Portrait Photography: Telling Stories](/posts/portrait-photography)
-Explore the art of portrait photography and learn tips on how to capture portraits that tell compelling stories.
+Enjoy the art of portraits.
+
+
 
 ## Latest Photos
 
 Here are some of my latest photographs. Click on any image to view it in full size.
 
-[![Photo 1](/assets/1.jpg)](/posts/1)
-[![Photo 2](/assets/2.jpg)](/posts/2)
-[![Photo 3](/assets/3.jpg)](/posts/3)
+![066](https://github.com/user-attachments/assets/cda8cd8a-bb80-4822-bacf-a7f505dae029)
+![20150514-DSC_8641](https://github.com/user-attachments/assets/fe6eb833-1310-4f90-abc8-f481a80a850d)
+![DSC_8539](https://github.com/user-attachments/assets/4c94cfd0-c38f-453d-98f7-2bc9d97f17f3)
 
-## About Me
 
-Hi, I'm [Your Name], a passionate photographer with a love for capturing life's precious moments. With years of experience in photography, I've had the privilege of traveling to various parts of the world, capturing its beauty and diversity.
 
 ## Get in Touch
 
 If you have any questions, would like to collaborate, or just want to say hello, please don't hesitate to [contact me](mailto:your@email.com).
 
+
 ## Follow Me
 
 Stay updated with my latest photography adventures and tips by following me on social media:
 
-- [Instagram](https://www.instagram.com/yourhandle)
-- [Twitter](https://twitter.com/yourhandle)
-- [Facebook](https://www.facebook.com/yourhandle)
+- [Facebook](https:/www.facebook.com/thomas.woo.184/)
 
 ---
 
-Thank you for visiting my photography blog! I hope you enjoy my work and find inspiration in the stories and tips shared here.
+Thank you for visiting my photography blog! I hope you enjoy my work and find inspiration in the stories shared here.
 
