@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Photography Blog - Capturing Moments"
-permalink: /
 ---
 
 # Welcome to My Photography Blog
