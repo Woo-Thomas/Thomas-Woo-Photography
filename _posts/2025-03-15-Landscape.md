@@ -1,5 +1,5 @@
 ---
-title: "Photo Set 3: Landscape Photography in the Mountains"
+title: "Landscape"
 date: 2025-03-15
 ---
 
