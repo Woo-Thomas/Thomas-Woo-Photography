@@ -57,7 +57,7 @@ Here are some of my latest photographs.
 
 Stay updated with my latest photography adventures and tips by following me on social media:
 
-www.facebook.com/thomas.woo.184/
+(https://www.facebook.com/thomas.woo.184/)
 
 ---
 
