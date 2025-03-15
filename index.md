@@ -2,11 +2,21 @@
 title: "Photography Blog - Capturing Moments"
 ---
 
-# Welcome to My Photography Blog
-
+# Welcome to My Photography Blog!
+![20210310-_W850771](https://github.com/user-attachments/assets/2a898854-0943-4781-a0f3-3cf792fe554f)
 [![Cover Photo](/assets/1)](/)
 
-This blog is dedicated to sharing my passion for photography. From landscapes to portraits, I capture moments that tell stories and evoke emotions. Here, you'll find my latest photography adventures, tips, and stories behind the lens.
+I'm Thomas.
+
+  I enjoy share my photography. 
+
+    I capture moments that tell stories.
+      
+      You will find my latest photography adventures.
+
+        Thank you.
+
+          And, enjoy.
 
 ## Featured Posts
 
@@ -46,4 +56,4 @@ Stay updated with my latest photography adventures and tips by following me on s
 ---
 
 Thank you for visiting my photography blog! I hope you enjoy my work and find inspiration in the stories and tips shared here.
-![20210310-_W850771](https://github.com/user-attachments/assets/2a898854-0943-4781-a0f3-3cf792fe554f)
+
