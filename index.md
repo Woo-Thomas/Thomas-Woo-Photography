@@ -1,5 +1,6 @@
 ---
-title: "Capturing Moments"
+title: "Capturing Moments \n 
+Photography"
 ---
 
 # Welcome to My Blog!
