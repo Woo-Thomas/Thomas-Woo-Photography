@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome to My Photography Blog
 
-[![Cover Photo](/assets/coverphoto.jpg)](/)
+[![Cover Photo](/assets/1.jpg)](/)
 
 This blog is dedicated to sharing my passion for photography. From landscapes to portraits, I capture moments that tell stories and evoke emotions. Here, you'll find my latest photography adventures, tips, and stories behind the lens.
 
@@ -25,9 +25,9 @@ Explore the art of portrait photography and learn tips on how to capture portrai
 
 Here are some of my latest photographs. Click on any image to view it in full size.
 
-[![Photo 1](/assets/photo1.jpg)](/posts/photo1)
-[![Photo 2](/assets/photo2.jpg)](/posts/photo2)
-[![Photo 3](/assets/photo3.jpg)](/posts/photo3)
+[![Photo 1](/assets/1.jpg)](/posts/1)
+[![Photo 2](/assets/2.jpg)](/posts/2)
+[![Photo 3](/assets/3.jpg)](/posts/3)
 
 ## About Me
 
@@ -48,3 +48,4 @@ Stay updated with my latest photography adventures and tips by following me on s
 ---
 
 Thank you for visiting my photography blog! I hope you enjoy my work and find inspiration in the stories and tips shared here.
+![20210310-_W850771](https://github.com/user-attachments/assets/2a898854-0943-4781-a0f3-3cf792fe554f)
