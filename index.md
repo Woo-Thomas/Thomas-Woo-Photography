@@ -4,7 +4,7 @@ title: "Photography Blog - Capturing Moments"
 
 # Welcome to My Photography Blog
 
-[![Cover Photo](/assets/1.jpg)](/)
+[![Cover Photo](/assets/1)](/)
 
 This blog is dedicated to sharing my passion for photography. From landscapes to portraits, I capture moments that tell stories and evoke emotions. Here, you'll find my latest photography adventures, tips, and stories behind the lens.
 
