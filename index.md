@@ -26,7 +26,7 @@ Thank you, and enjoy.
 
 ## Featured Posts
 
-### [Surfing at Beach](/posts/Surfing)
+### [Surfing at Beach](/ThomasWoo--Photography/posts/Surfing)
 Surfs up!
 
 ### [Street Photography: Capturing Urban Life](/posts/street-photography)
