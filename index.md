@@ -26,30 +26,31 @@ Thank you, and enjoy.
 
 ## Featured Posts
 
-### [Landscape Photography in the Mountains](/posts/landscape-photography)
-Breathtaking views of stunning landscape photographs in the mountains.
+### [Surfing at Beach](/posts/surfing-photography)
+Surfs up!
 
 ### [Street Photography: Capturing Urban Life](/posts/street-photography)
 Dive into urban life street.
+
+### [Landscape Photography in the Mountains](/posts/landscape-photography)
+Breathtaking views of stunning landscape photographs in the mountains.
 
 ### [Portrait Photography: Telling Stories](/posts/portrait-photography)
 Enjoy the art of portraits.
 
 
 
+
 ## Latest Photos
 
-Here are some of my latest photographs. Click on any image to view it in full size.
+Here are some of my latest photographs.
 
 ![066](https://github.com/user-attachments/assets/cda8cd8a-bb80-4822-bacf-a7f505dae029)
+
 ![20150514-DSC_8641](https://github.com/user-attachments/assets/fe6eb833-1310-4f90-abc8-f481a80a850d)
+
 ![DSC_8539](https://github.com/user-attachments/assets/4c94cfd0-c38f-453d-98f7-2bc9d97f17f3)
 
-
-
-## Get in Touch
-
-If you have any questions, would like to collaborate, or just want to say hello, please don't hesitate to [contact me](mailto:your@email.com).
 
 
 ## Follow Me
