@@ -1,8 +1,8 @@
 ---
-title: "Photography Blog - Capturing Moments"
+title: "Capturing Moments"
 ---
 
-# Welcome to My Photography Blog!
+# Welcome to My Blog!
 
 ![20210310-_W850771](https://github.com/user-attachments/assets/2a898854-0943-4781-a0f3-3cf792fe554f)
 
