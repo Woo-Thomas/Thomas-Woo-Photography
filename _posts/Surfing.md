@@ -1,6 +1,5 @@
 ---
 title: "Photo Set 1: Surfing @ Beach"
-date: 2025-03-15
 ---
 
 Enjoy!
