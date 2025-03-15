@@ -26,16 +26,16 @@ Thank you, and enjoy.
 
 ## Featured Posts
 
-### [Surfing at Beach](/ThomasWoo--Photography/posts/Surfing.md)
+### [Surfing at Beach](/posts/2025-03-15-Surfing)
 Surfs up!
 
-### [Street Photography: Capturing Urban Life](/posts/street-photography)
+### [Street Photography: Capturing Urban Life](/posts/2025-03-15-Street)
 Dive into urban life street.
 
-### [Landscape Photography in the Mountains](/posts/landscape-photography)
+### [Landscape Photography in the Mountains](/posts/2025-03-15-Landscape)
 Breathtaking views of stunning landscape photographs in the mountains.
 
-### [Portrait Photography: Telling Stories](/posts/portrait-photography)
+### [Portrait Photography: Telling Stories](/posts/2025-03-15-Portrait)
 Enjoy the art of portraits.
 
 
@@ -57,7 +57,7 @@ Here are some of my latest photographs.
 
 Stay updated with my latest photography adventures and tips by following me on social media:
 
-- [Facebook](https:/www.facebook.com/thomas.woo.184/)
+www.facebook.com/thomas.woo.184/
 
 ---
 
